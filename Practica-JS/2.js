@@ -1,0 +1,14 @@
+let edad = 25; //variable tipo entero
+//edad = prompt("Ingresa tu Edad: ");
+const nombre = Andres; // Variable tipo string
+//nombre = prompt("Ingresa tu Nombre: ");
+let direccion = c2; // variable tipo string
+//direccion = prompt("Ingresa tu Direccion: ");
+let precioBolillo = 2; // variable tipo decimal
+//precioBolillo = prompt("Ingresa el precio del Bolillo: ");
+const fechaNac = 1996; //variable tipo entero
+//fechaNac = prompt("Ingresa fecah de nacimiento: ");
+let claveLect = ejkasiojp32; //variable tipo string
+//claveLect = prompt("Ingresa calve de elector: ");
+const nomPet = Lia; //variable tipo string
+//nomPet = prompt("Ingresa el nombre de tu mascota: ");
